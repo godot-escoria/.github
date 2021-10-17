@@ -9,3 +9,5 @@ Libre framework for the creation of point-and-click adventure games with the mul
 It is designed to be extended with the specific requirements for your game.
 
 Check out the Escoria documentation, especially the Getting Started Guide for further details. #todo links
+
+If you have problems with using Escoria or require new features, check out our [contribution guide](https://github.com/godot-escoria/.github/blob/main/CONTRIBUTING.md) and the [issue tracker](https://github.com/godot-escoria/escoria-issues/issues).
